@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Week1Day4Homework</string>
+    <string name="first_word">apple</string>
+    <string name="second_word">tree</string>
+    <string name="third_word">car</string>
+    <string name="fourth_word">music</string>
+    <string name="fifth_word">blue</string>
+    <string name="go_next_button" translatable="false">Go to next</string>
+    <string name="go_main_button">Go to main</string>
+</resources>

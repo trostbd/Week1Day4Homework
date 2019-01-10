@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_word">Pomme</string>
+    <string name="second_word">arbre</string>
+    <string name="third_word">voiture</string>
+    <string name="fourth_word">la musique</string>
+    <string name="fifth_word">bleu</string>
+</resources>

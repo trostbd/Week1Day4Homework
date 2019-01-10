@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvFirstWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/first_word"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvSecondWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/second_word"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvThirdWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/third_word"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvFourthWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/fourth_word"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvFifthWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/fifth_word"
+        android:onClick="onClick"
+        />
+
+    <Button
+        android:id="@+id/btNextGo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/go_next_button"
+        android:onClick="onClick"/>
+
+</LinearLayout>
